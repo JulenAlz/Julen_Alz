@@ -87,10 +87,10 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jrodriguezcano&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jrodriguezcano&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=julen_alz&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=julen_alz&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrodriguezcano&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&layout=compact" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julen_alz&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&layout=compact" width="50%" />
 
 </div>
 
